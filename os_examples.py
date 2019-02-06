@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import os
+from datetime import datetime
 
 FOLDER = 'DATA'
 FILE_NAME = 'mary.txt'
@@ -50,4 +51,6 @@ for currdir, dir_list, file_list in os.walk(start_dir):
         if file_name.endswith('.py'):
             file_path = os.path.join(currdir, file_name)
             file_size = os.path.getsize(file_path)
-            print(f"  {file_size:8d} {file_name}")
+            file_raw_ts = os.path.getmtime(file_path)
+            file_ts = datetime.fromtimestamp(file_raw_ts).date()
+            print(f"  {file_size:8d} {file_ts} {file_name}")
