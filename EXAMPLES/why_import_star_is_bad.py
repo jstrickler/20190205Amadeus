@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from electrical import *  # <1>
+from electrical import current, voltage, amps # <1>
 from navigation import *  # <2>
 
 print(current())  # <3>
