@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys
 
-import amatools  # find and execute amatools.py
+from amadeus.flight import amatools
 
 amatools.book_flight()
 amatools.get_user_names()

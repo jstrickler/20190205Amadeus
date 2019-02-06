@@ -1,4 +1,4 @@
 #!/usr/bin/env python
-import amatools as at
+from amadeus.flight import amatools as at
 
 at.get_user_names()
