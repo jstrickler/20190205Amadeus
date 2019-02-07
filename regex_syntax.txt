@@ -1,0 +1,63 @@
+
+   pet   "pet"   "carpetbagger"  "pink petunia" "I pet the dog"
+
+   p.t   "petunia"  "keep to the right"   "spittoon"
+
+   p[aeiou]t
+
+   p[^aeiou]t  p t    pAt  p,t pzt
+
+   [0123456789]  [0-9]  \d
+
+   [a-zA-Z0-9_]    \w    \W
+
+   [0-9]           \d    \D
+
+   [ \t\n\r\f\b]   \s    \S
+
+   \d\d\d-\d\d-\d\d\d\d
+
+   p\dt
+
+   \d{3}-\d{2}-\d{4}
+
+  p[aeiou]{1,2}t
+
+   0-----------------
+   1
+  (?P<airline>AA|DL|SW|FR)\s+\d+   "AA 1234"   "DL 1"
+
+  {n}  {n,}  {n,m}
+
+  *    0 or more
+  +    1 or more
+  ?    0 or 1
+  *?   0 or more (shortest match) (AKA non-greedy)
+  +?   1 or more (shortest match) (AKA non-greedy)
+
+   spam.*ham
+
+   "spam habersham welleley waltham"
+
+   spam.*?ham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
