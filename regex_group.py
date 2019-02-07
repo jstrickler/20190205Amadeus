@@ -18,3 +18,6 @@ print()
 
 matches = re.findall(pattern, s)  # <3>
 print("matches:", matches)
+
+for letter, number in re.findall(pattern, s):
+    print(letter, number)

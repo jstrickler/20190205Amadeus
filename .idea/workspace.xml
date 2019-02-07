@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4368920-1679-4703-941f-b4909ef700d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/regex_syntax.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMPLES/ham.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMPLES/spam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_potus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/mock_return_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/mock_return_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex_finding_matches.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex_finding_matches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex_flags.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex_flags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex_objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex_split.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex_split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex_sub_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex_sub_callback.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,105 +23,86 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/my_package/module_a.py">
+        <entry file="file://$PROJECT_DIR$/test_potus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="-265">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
               <folding>
-                <element signature="e#72#102#0" expanded="true" />
+                <element signature="e#22#37#0" expanded="true" />
+                <element signature="e#174#178#0" expanded="true" />
+                <element signature="e#237#241#0" expanded="true" />
+                <element signature="e#151#171#0" expanded="true" />
+                <element signature="e#183#226#0" expanded="true" />
+                <element signature="e#306#374#0" expanded="true" />
+                <element signature="e#417#554#0" expanded="true" />
+                <element signature="e#602#606#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monkey_monkey.py">
+        <entry file="file://$PROJECT_DIR$/ANSWERS/president.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="232">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="32" />
               <folding>
-                <element signature="e#22#40#0" expanded="true" />
+                <element signature="e#86#107#0" expanded="true" />
+                <element signature="e#162#366#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/othermodule.py">
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/mock_basics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="554">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#48#57#0" expanded="true" />
+                <element signature="e#24#39#0" expanded="true" />
+                <element signature="e#167#198#0" expanded="true" />
+                <element signature="e#359#425#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wombat.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-              <folding>
-                <element signature="e#22#40#0" expanded="true" />
-                <element signature="e#87#164#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fauxgetpass.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/play_cards.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="e#22#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EXAMPLES/bm_range_vs_while.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_benchmarks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regex_syntax.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="39" column="36" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/regex_finding_matches.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/mock_return_values.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#24#39#0" expanded="true" />
+                <element signature="e#446#564#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/spam.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding>
+                <element signature="e#155#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/ham.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#38#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -120,8 +110,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Benchmarks" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -136,14 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/variables_examples.py" />
-        <option value="$PROJECT_DIR$/loops.py" />
-        <option value="$PROJECT_DIR$/date_examples.py" />
-        <option value="$PROJECT_DIR$/EXAMPLES/datetime_fmt.py" />
-        <option value="$PROJECT_DIR$/EXAMPLES/date_parsing_easy.py" />
-        <option value="$PROJECT_DIR$/os_examples.py" />
-        <option value="$PROJECT_DIR$/EXAMPLES/calendar_html.py" />
-        <option value="$PROJECT_DIR$/struct_example.c" />
         <option value="$PROJECT_DIR$/argument_unpacking.py" />
         <option value="$PROJECT_DIR$/tuple_examples.py" />
         <option value="$PROJECT_DIR$/sorting_examples.py" />
@@ -172,7 +154,6 @@
         <option value="$PROJECT_DIR$/abstract_base_classes.py" />
         <option value="$PROJECT_DIR$/carddeck.py" />
         <option value="$PROJECT_DIR$/globals_and_locals.py" />
-        <option value="$PROJECT_DIR$/ANSWERS/president.py" />
         <option value="$PROJECT_DIR$/working_with_attributes.py" />
         <option value="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" />
         <option value="$PROJECT_DIR$/decorators101.py" />
@@ -184,6 +165,18 @@
         <option value="$PROJECT_DIR$/play_cards.py" />
         <option value="$PROJECT_DIR$/my_benchmarks.py" />
         <option value="$PROJECT_DIR$/regex_syntax.txt" />
+        <option value="$PROJECT_DIR$/regex_finding_matches.py" />
+        <option value="$PROJECT_DIR$/regex_objects.py" />
+        <option value="$PROJECT_DIR$/regex_flags.py" />
+        <option value="$PROJECT_DIR$/regex_group.py" />
+        <option value="$PROJECT_DIR$/regex_sub.py" />
+        <option value="$PROJECT_DIR$/regex_sub_callback.py" />
+        <option value="$PROJECT_DIR$/regex_split.py" />
+        <option value="$PROJECT_DIR$/ANSWERS/president.py" />
+        <option value="$PROJECT_DIR$/test_president.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/ham.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/spam.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/mock_return_values.py" />
       </list>
     </option>
   </component>
@@ -205,6 +198,11 @@
             <path>
               <item name="py3interm" type="b2602c69:ProjectViewProjectNode" />
               <item name="py3interm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3interm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3interm" type="462c0819:PsiDirectoryNode" />
+              <item name="ANSWERS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="py3interm" type="b2602c69:ProjectViewProjectNode" />
@@ -255,8 +253,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.my_benchmarks">
-    <configuration name="bm_range_vs_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mock_return_values">
+    <configuration name="mock_basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3interm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,7 +266,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/bm_range_vs_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/mock_basics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +275,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="monkey_monkey" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mock_return_values" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3interm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/mock_return_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_president" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3interm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +308,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monkey_monkey.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_potus.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,76 +317,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_benchmarks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest for mock_return_values.TestSpam.test_whatever" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="py3interm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_benchmarks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mock_return_values.TestSpam.test_whatever&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="play_cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in test_potus.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="py3interm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/play_cards.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wombat" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py3interm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wombat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_potus.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.my_benchmarks" />
-        <item itemvalue="Python.bm_range_vs_while" />
-        <item itemvalue="Python.play_cards" />
-        <item itemvalue="Python.monkey_monkey" />
-        <item itemvalue="Python.wombat" />
+        <item itemvalue="Python.mock_return_values" />
+        <item itemvalue="Python.mock_basics" />
+        <item itemvalue="Python tests.pytest for mock_return_values.TestSpam.test_whatever" />
+        <item itemvalue="Python.test_president" />
+        <item itemvalue="Python tests.pytest in test_potus.py" />
       </list>
     </recent_temporary>
   </component>
@@ -396,12 +382,38 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_president_py - 2019.02.07 at 16h 15m 20s.xml">
+      <configuration name="pytest in test_president.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_president_py - 2019.02.07 at 16h 17m 29s.xml">
+      <configuration name="pytest in test_president.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_president_py - 2019.02.07 at 16h 17m 58s.xml">
+      <configuration name="pytest in test_president.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_president_py - 2019.02.07 at 16h 18m 14s.xml">
+      <configuration name="pytest in test_president.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_president_py - 2019.02.07 at 16h 20m 23s.xml">
+      <configuration name="pytest in test_president.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_president_py - 2019.02.07 at 16h 20m 39s.xml">
+      <configuration name="pytest in test_president.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_president_py - 2019.02.07 at 16h 31m 09s.xml">
+      <configuration name="pytest in test_president.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_mock_return_values_TestSpam_test_whatever - 2019.02.07 at 16h 48m 46s.xml">
+      <configuration name="pytest for mock_return_values.TestSpam.test_whatever" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="50" width="1209" height="713" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21801347" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20622896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32943144" />
@@ -409,7 +421,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32943144" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13210702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41137123" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -487,137 +499,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/struct_example.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ANSWERS/pres_by_death.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#84#601#0" expanded="true" />
-            <element signature="e#632#744#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argument_unpacking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#46#53#0" expanded="true" />
-            <element signature="e#173#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuple_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#1692#1714#0" expanded="true" />
-            <element signature="e#1734#1747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="64" column="18" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="18" />
-          <folding>
-            <element signature="e#387#403#0" expanded="true" />
-            <element signature="e#568#592#0" expanded="true" />
-            <element signature="e#1025#1041#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scope_stuff.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#127#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EXAMPLES/set_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variables_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="260" selection-start-line="260" selection-end-line="262" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list_comprehensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="108" column="35" lean-forward="true" selection-start-line="108" selection-start-column="35" selection-end-line="108" selection-end-column="35" />
-          <folding>
-            <element signature="e#1782#1794#0" expanded="true" />
-            <element signature="e#2061#2070#0" expanded="true" />
-            <element signature="e#2573#2680#0" expanded="true" />
-            <element signature="e#2929#2971#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itemgetter_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
-          <folding>
-            <element signature="e#108#112#0" expanded="true" />
-            <element signature="e#61#69#0" expanded="true" />
-            <element signature="e#90#94#0" expanded="true" />
-            <element signature="e#196#207#0" expanded="true" />
-            <element signature="e#430#444#0" expanded="true" />
-            <element signature="e#496#505#0" expanded="true" />
-            <element signature="e#533#544#0" expanded="true" />
-            <element signature="e#613#640#0" expanded="true" />
-            <element signature="e#745#753#0" expanded="true" />
-            <element signature="e#902#906#0" expanded="true" />
-            <element signature="e#944#953#0" expanded="true" />
-            <element signature="e#1059#1063#0" expanded="true" />
-            <element signature="e#1100#1161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/single_dispatch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
-          <folding>
-            <element signature="e#47#88#0" expanded="true" />
-            <element signature="e#363#377#0" expanded="true" />
-            <element signature="e#442#464#0" expanded="true" />
-            <element signature="e#535#568#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scope_examples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
@@ -839,26 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ANSWERS/president.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="e#86#107#0" expanded="true" />
-            <element signature="e#162#366#0" expanded="true" />
-            <element signature="e#1165#1183#0" expanded="true" />
-            <element signature="e#1233#1251#0" expanded="true" />
-            <element signature="e#1301#1319#0" expanded="true" />
-            <element signature="e#1369#1387#0" expanded="true" />
-            <element signature="e#1438#1457#0" expanded="true" />
-            <element signature="e#1508#1527#0" expanded="true" />
-            <element signature="e#1582#1602#0" expanded="true" />
-            <element signature="e#1655#1675#0" expanded="true" />
-            <element signature="e#1720#1738#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/working_with_attributes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -1010,14 +871,35 @@
     <entry file="file://$PROJECT_DIR$/EXAMPLES/bm_range_vs_while.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_benchmarks.py">
+    <entry file="file://$PROJECT_DIR$/regex_group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        <state relative-caret-position="198">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex_flags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex_objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex_finding_matches.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1028,8 +910,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/regex_finding_matches.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/my_benchmarks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex_special.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex_sub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex_sub_callback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#734#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regex_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANSWERS/president.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="32" />
+          <folding>
+            <element signature="e#86#107#0" expanded="true" />
+            <element signature="e#162#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_potus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#22#37#0" expanded="true" />
+            <element signature="e#174#178#0" expanded="true" />
+            <element signature="e#237#241#0" expanded="true" />
+            <element signature="e#151#171#0" expanded="true" />
+            <element signature="e#183#226#0" expanded="true" />
+            <element signature="e#306#374#0" expanded="true" />
+            <element signature="e#417#554#0" expanded="true" />
+            <element signature="e#602#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/mock_basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#167#198#0" expanded="true" />
+            <element signature="e#359#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/ham.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#38#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/spam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="e#155#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/mock_return_values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#446#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

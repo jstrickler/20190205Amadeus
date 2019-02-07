@@ -12,7 +12,7 @@ officia deserunt Y45 mollit anim id est laborum"""
 
 pattern = r'[A-Z]\d{2,3}'
 
-if re.search(pattern, s, re.IGNORECASE):  # <1>
+if re.search(pattern, s, re.IGNORECASE | re.MULTILINE):  # <1>
     print("Found pattern.")
 print()
 
@@ -27,3 +27,10 @@ print()
 
 matches = re.findall(pattern, s, re.I)
 print("matches:", matches)
+
+# re.IGNORECASE  re.I
+# re.MULTILINE   re.M
+# re.DOTALL      re.S
+# re.VERBOSE     re.X
+# re.LOCALE      re.L
+
