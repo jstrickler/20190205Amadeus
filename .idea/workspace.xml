@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4368920-1679-4703-941f-b4909ef700d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/abstract_base_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jokerdeck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globals_and_locals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working_with_attributes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANSWERS/president.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANSWERS/president.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carddeck.py" beforeDir="false" afterPath="$PROJECT_DIR$/carddeck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataclass_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataclass_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/play_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/play_cards.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,76 +17,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/working_with_attributes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+              <folding>
+                <element signature="e#22#28#0" expanded="true" />
+                <element signature="e#279#288#0" expanded="true" />
+                <element signature="e#352#359#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/carddeck.py">
+        <entry file="file://$PROJECT_DIR$/EXAMPLES/inspect_ex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2050">
-              <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+            <state relative-caret-position="196">
+              <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="54" />
               <folding>
-                <element signature="e#38#118#0" expanded="true" />
-                <element signature="e#283#358#0" expanded="true" />
-                <element signature="e#419#592#0" expanded="true" />
-                <element signature="e#655#673#0" expanded="true" />
-                <element signature="e#273#292#0" expanded="true" />
-                <element signature="e#401#508#0" expanded="true" />
-                <element signature="e#575#592#0" expanded="true" />
-                <element signature="e#650#668#0" expanded="true" />
-                <element signature="e#1149#1173#0" expanded="true" />
-                <element signature="e#1212#1222#0" expanded="true" />
-                <element signature="e#1293#1303#0" expanded="true" />
-                <element signature="e#1357#1380#0" expanded="true" />
-                <element signature="e#1427#1515#0" expanded="true" />
-                <element signature="e#1569#1751#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataclass_examples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jokerdeck.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#103#122#0" expanded="true" />
-                <element signature="e#94#104#0" expanded="true" />
-                <element signature="e#176#185#0" expanded="true" />
-                <element signature="e#121#231#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abstract_base_classes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="22" />
-              <folding>
-                <element signature="e#176#180#0" expanded="true" />
-                <element signature="e#183#192#0" expanded="true" />
-                <element signature="e#201#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/play_cards.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-              <folding>
-                <element signature="e#23#52#0" expanded="true" />
+                <element signature="e#125#154#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,6 +51,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/ANSWERS</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,6 +99,10 @@
         <option value="$PROJECT_DIR$/abstract_base_classes.py" />
         <option value="$PROJECT_DIR$/play_cards.py" />
         <option value="$PROJECT_DIR$/carddeck.py" />
+        <option value="$PROJECT_DIR$/globals_and_locals.py" />
+        <option value="$PROJECT_DIR$/ANSWERS/president.py" />
+        <option value="$PROJECT_DIR$/working_with_attributes.py" />
+        <option value="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" />
       </list>
     </option>
   </component>
@@ -165,6 +125,11 @@
               <item name="py3interm" type="b2602c69:ProjectViewProjectNode" />
               <item name="py3interm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="py3interm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3interm" type="462c0819:PsiDirectoryNode" />
+              <item name="EXAMPLES" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -177,7 +142,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -203,28 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.play_cards">
-    <configuration name="abstract_base_classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py3interm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstract_base_classes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.inspect_ex">
     <configuration name="carddeck" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3interm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jokerdeck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="globals_and_locals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3interm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,7 +202,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jokerdeck.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/globals_and_locals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inspect_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3interm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/inspect_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="working_with_attributes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3interm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,7 +265,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/working_with_attributes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inspect_ex" />
+        <item itemvalue="Python.working_with_attributes" />
+        <item itemvalue="Python.globals_and_locals" />
         <item itemvalue="Python.play_cards" />
         <item itemvalue="Python.carddeck" />
-        <item itemvalue="Python.abstract_base_classes" />
-        <item itemvalue="Python.jokerdeck" />
-        <item itemvalue="Python.simple_classes" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +321,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32943144" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29431438" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17391305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3846154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,15 +332,15 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.22306398" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.25420874" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.32943144" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.36622074" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32943144" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.31438127" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3846154" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -805,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/carddeck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2050">
-          <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+        <state relative-caret-position="237">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
           <folding>
             <element signature="e#38#118#0" expanded="true" />
             <element signature="e#283#358#0" expanded="true" />
@@ -822,6 +787,59 @@
             <element signature="e#1357#1380#0" expanded="true" />
             <element signature="e#1427#1515#0" expanded="true" />
             <element signature="e#1569#1751#0" expanded="true" />
+            <element signature="e#1811#1896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globals_and_locals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#90#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANSWERS/president.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#86#107#0" expanded="true" />
+            <element signature="e#162#366#0" expanded="true" />
+            <element signature="e#1165#1183#0" expanded="true" />
+            <element signature="e#1233#1251#0" expanded="true" />
+            <element signature="e#1301#1319#0" expanded="true" />
+            <element signature="e#1369#1387#0" expanded="true" />
+            <element signature="e#1438#1457#0" expanded="true" />
+            <element signature="e#1508#1527#0" expanded="true" />
+            <element signature="e#1582#1602#0" expanded="true" />
+            <element signature="e#1655#1675#0" expanded="true" />
+            <element signature="e#1720#1738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working_with_attributes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding>
+            <element signature="e#22#28#0" expanded="true" />
+            <element signature="e#279#288#0" expanded="true" />
+            <element signature="e#352#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAMPLES/inspect_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="e#125#154#0" expanded="true" />
           </folding>
         </state>
       </provider>

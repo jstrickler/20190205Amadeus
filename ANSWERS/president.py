@@ -16,7 +16,7 @@ class President():
         return d
 
     def _get_data(self, index):
-        with open("../DATA/presidents.txt") as pfile:
+        with open("DATA/presidents.txt") as pfile:
             for line in pfile:
                 flds = line.split(":")
                 if int(flds[0]) == int(index):
