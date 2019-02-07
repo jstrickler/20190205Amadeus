@@ -61,5 +61,25 @@ class CardDeck():
     def bark():
         print("Woof! woof!")
 
+    def __len__(self):  # implements  len()
+        return len(self._cards)
+
+    def __str__(self):
+        my_type = type(self)
+        my_name = my_type.__name__
+        return "{}: {}".format(my_name, len(self))
+
+    def __add__(self, other):
+        if isinstance(self, type(other)):
+            tmp = type(self)(self.dealer)
+            tmp._cards += other.cards
+            return tmp
+        else:
+            raise TypeError("Cannot mix deck types")
+
+    def __eq__(self, other):
+        return set(self.cards) == set(other.cards)
+        # return self.cards == other.cards
+
 if __name__ == '__main__':
     main()
