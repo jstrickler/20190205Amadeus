@@ -1,60 +1,63 @@
 #!/usr/bin/env python
+import pdb
 
 from carddeck import CardDeck
 from jokerdeck import JokerDeck
 
-c1 = CardDeck("Leslie")
+C1 = CardDeck("Leslie")
 
-print(c1.dealer)
+print(C1.dealer)
 
-c1.dealer = 'Bob'
+C1.dealer = 'Bob'
 
 try:
-    c3 = CardDeck({})
-    c1.dealer = [None, 3.2]
+    C3 = CardDeck({})
+    C1.dealer = [None, 3.2]
 except TypeError as err:
     print(err)
 
-print(c1.dealer)
+print(C1.dealer)
 
-print(c1.cards)
+print(C1.cards)
 
 hand = []
 for i in range(5):
-    hand.append(c1.draw())
+    hand.append(C1.draw())
 print("Hand:", hand)
 
-print(c1.get_suits())
+print(C1.get_suits())
 print(CardDeck.get_suits())
 
 CardDeck.bark()
 print('-' * 60)
-j1 = JokerDeck('Jack')
-print(j1)
-print(j1.draw())
-print(j1.cards)
+J1 = JokerDeck('Jack')
+print(J1)
+print(J1.draw())
+print(J1.cards)
 
-j1.bark()
+J1.bark()
 print(JokerDeck.mro())
-print(j1)   # print(str(j1))
-print(c1)
-print(len(j1))   #  print(str(len(j1)))
-print(len(c1))
+print(J1)   # print(str(j1))
+print(C1)
+print(len(J1))   #  print(str(len(j1)))
+print(len(C1))
 c2 = CardDeck("Bonnie")
 
-z = c1 + c2
+Z = C1 + c2
 
-print(z)
-print(len(z))
-print(z.draw())
+print(Z)
+print(len(Z))
+print(Z.draw())
 
-x = c2 + c1
-print(x, len(x))
-print(x.draw())
+X = c2 + C1
+print(X, len(X))
+print(X.draw())
 
-e1 = CardDeck("B")
-e2 = CardDeck("B")
-print(id(e1), id(e2))
-print(e1 == e2)
+pdb.set_trace()
+
+E1 = CardDeck("B")
+E2 = CardDeck("B")
+print(id(E1), id(E2))
+print(E1 == E2)
 
 
