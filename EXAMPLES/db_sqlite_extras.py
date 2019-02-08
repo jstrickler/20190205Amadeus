@@ -30,6 +30,7 @@ dcur.row_factory = sqlite3.Row  # <2>
 dcur.execute(NAME_QUERY)
 
 for row in dcur.fetchall():
-    print(row['firstname'], row['lastname'])  # <3>
+    print(dict(row))
+#    print(row['firstname'], row['lastname'])  # <3>
 
 print('-' * 50)
