@@ -19,12 +19,20 @@ def main(args):
     response = requests.get(
         BASE_URL + args[0],
         params={'key': API_KEY},
+        # data={'k': 'v'},
+        # proxy={'scheme': ['u1', 'u2']},
+        # auth=('myname', '$3cr3t'),
+        # headers={'h': 'v'},
     )  # <3>
 
     if response.status_code == requests.codes.OK:
         # pprint(response.content.decode())
         # print('-' * 60)
         data = response.json()  # <4>
+        print('-' * 60)
+        pprint(data)
+        print('-' * 60)
+
         for entry in data: # <5>
             if isinstance(entry, dict):
                 meta = entry.get("meta")

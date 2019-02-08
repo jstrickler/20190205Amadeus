@@ -4,6 +4,7 @@ import os
 from email.mime.multipart import MIMEMultipart  # <1>
 from email.mime.text import MIMEText # <2>
 from email.mime.image import MIMEImage # <3>
+from email.mime.application import MIMEApplication
 
 SMTP_SERVER = "smtpcorp.com"
 SMTP_PORT = 2525

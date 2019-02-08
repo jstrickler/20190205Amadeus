@@ -22,3 +22,9 @@ with paramiko.SSHClient() as ssh:  # <1>
     print("STDERR:")
     print(stderr.read().decode())  # <6>
     print('-' * 60)
+
+    stdin, stdout, stderr = ssh.exec_command('bc')  #
+    stdin.write(b'5 + 10\n')
+    print("after write")
+    print(stdout.read().decode())
+    stdin.write(b'\x04')
