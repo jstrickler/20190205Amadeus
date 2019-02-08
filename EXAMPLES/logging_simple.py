@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(
     filename='../TEMP/simple.log',
-    level=logging.WARN,
+    level=0,
 ) # <1>
 
 logging.warning('This is a warning') # <2>

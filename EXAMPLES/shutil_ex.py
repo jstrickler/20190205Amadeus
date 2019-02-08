@@ -16,7 +16,7 @@ new_folder = 'remove_me'
 os.mkdir(new_folder) # <3>
 shutil.move('fred.txt', new_folder)
 
-shutil.make_archive(new_folder, 'zip', new_folder) # <4>
+shutil.make_archive(new_folder, 'zip') # <4>
 
 print("{}.zip exists:".format(new_folder), os.path.exists(new_folder + '.zip'))
 

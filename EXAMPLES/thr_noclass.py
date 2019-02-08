@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import threading
+from threading import Thread
 import random
 import time
 
@@ -11,5 +11,7 @@ def doit(num):  # <1>
 
 
 for i in range(10):
-    t = threading.Thread(target=doit, args=(i,))  # <2>
+    t = Thread(target=doit, args=(i,))  # <2>
     t.start()  # <3>
+
+print("ALL THREADS LAUNCHED")
